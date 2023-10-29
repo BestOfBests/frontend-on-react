@@ -1,0 +1,16 @@
+.planet {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    z-index: 2; /*bhisabhiavshi   */
+}
+.planet img {
+    height: 50px;
+    width: 50px;
+    z-index: 4;
+    position: relative;
+}
+.planet text {
+    text-shadow: 1px white;
+}

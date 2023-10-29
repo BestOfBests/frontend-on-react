@@ -1,0 +1,7 @@
+.nav-panel {
+    background-color: rgb(42, 48, 63);
+    height: 100px;
+    width: 100%;
+    z-index: 100;
+    position: relative;
+}

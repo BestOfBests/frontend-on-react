@@ -1,4 +1,5 @@
 const Navbar = () => {
+    
     return (
         <nav className="Navbar">
             <h1>Planet finders </h1>
